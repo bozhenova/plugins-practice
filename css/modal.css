@@ -78,3 +78,12 @@
   padding: 5px 10px;
   border-top: 1px solid #eeeeee;
 }
+
+.title {
+  margin: 30px auto;
+}
+
+.placeholder {
+  margin: 0 auto;
+  transform: translateY(200px);
+}
